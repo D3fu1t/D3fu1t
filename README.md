@@ -17,7 +17,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm D3fu1t who is A Hacker & Security Researcher.I Make Lightweight Hacking Tools and I'm learning Cybersecurity for My Passion and Also I want to become a **Cybersecurity Specialists** and a **Bug hunter**. <br>
+I'm D3fu1t Who is A Hacker & Security Researcher.I Make Lightweight Hacking Tools and I'm learning Cybersecurity for My Passion and Also I want to become a **Cybersecurity Specialists** and a **Bug hunter**. <br>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d3fu1t&label=Profile%20views&color=0e75b6&style=flat" alt="d3fu1t" /> </p>
