@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm D3fu1t</h1>
+<h1 align="center">Hi I'm D3fu1t</h1>
 <h3 align="center">A White Hat Hacker who Built Shortcut Hacking Tools</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d3fu1t&label=Profile%20views&color=0e75b6&style=flat" alt="d3fu1t" /> </p>
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [d3fu1t.github.io](d3fu1t.github.io)
+- 👨‍💻 My Website: [d3fu1t.github.io](d3fu1t.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
